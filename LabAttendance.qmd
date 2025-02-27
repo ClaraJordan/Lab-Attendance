@@ -5,7 +5,4 @@ format: html
 editor: visual
 ---
 
-## I've learned how to create repositories in multiple ways. I think the way that
-# works best for me is to create a repository in GitHub and then connect it to 
-# RStudio by creating a project using the Version Control Option and pasting in my
-# repository URL. 
+## I've learned how to create repositories in multiple ways. I think the way that works best for me is to create a repository in GitHub and then connect it to RStudio by creating a project using the Version Control Option and pasting in my repository URL. 
